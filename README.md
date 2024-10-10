@@ -6,7 +6,9 @@ Inspired by [this Instagram post](https://www.instagram.com/p/DAY56o2uVuM/), spe
 
 ## Demo Video
 
-## Materials Used
+https://github.com/user-attachments/assets/8af426b7-a380-4d0d-b67d-026145ce1685
+
+## Parts
 
 - Paddle & Ball
 - Adafruit PowerBoost 500
